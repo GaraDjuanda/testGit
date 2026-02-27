@@ -1,2 +1,2 @@
-## Belajar pakai Git
-# Tusya pacar Ecii
+# Belajar pakai Git
+## Tusya pacar Ecii
