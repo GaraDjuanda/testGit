@@ -3,4 +3,4 @@
 ## Tusya suka main Game
 ## WKWKWKK GIT ITU GAMPANK
 
-### Versi 1.0 nih bos
+### Versi 2.0 nih bos
